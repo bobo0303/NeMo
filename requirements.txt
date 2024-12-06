@@ -1,0 +1,20 @@
+# NVIDIA nemo
+Cython 
+packaging
+
+# NeMo Text Processing
+nemo_text_processing
+
+# nemo_toolkit
+nemo_toolkit[all]
+# nemo_toolkit['asr']
+nemo_toolkit[tts]
+# nemo_toolkit['nlp']
+# nemo_toolkit['vision']
+# nemo_toolkit['multimodal']
+
+# (debug) for match the vision of nemo_toolkit
+pytorch_lightning==2.0.0 
+huggingface-hub==0.23.2
+
+
