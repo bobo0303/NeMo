@@ -1,0 +1,9 @@
+ref,hyp,time
+        ,你长给方问着免质的病人,0.09395647048950195
+WER,inf
+tts_spec_load_model,3.2622478008270264
+tts_vocoder_load_model,1.1156244277954102
+asr_load_model,13.84597110748291
+tts_spec_time,0.2566983699798584
+tts_vocoder_time,0.14170527458190918
+asr_time,1.8432772159576416
